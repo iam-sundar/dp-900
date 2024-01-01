@@ -1,0 +1,15 @@
+Microsoft Azure Data Fundamentals: [DP-900]
+1. Describe Core Data Concepts [25-30%]
+2. Identify considerations for relational data on Azure [20-25%]
+3. Describe considerations for working with non-relational data on Azure [15-20%]
+4. Describe an analytics workload on Azure [25-30%]
+
+
+https://techcommunity.microsoft.com/t5/microsoft-learn-blog/master-the-basics-with-the-azure-data-fundamentals-certification/ba-p/1660731
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/
+
+
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900#skills-measured-as-of-february-1-2024
+
+
